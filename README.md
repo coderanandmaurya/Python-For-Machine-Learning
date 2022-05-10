@@ -9,4 +9,5 @@ https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Keywor
 https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/print_function%2C_Comments.ipynb
 
 ## Day 3: Data_Type, Type conversion
-https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Data_Type%2C_Type_conversion.ipynbData_Type, Type conversion
+https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Data_Type%2C_Type_conversion.ipynb
+
