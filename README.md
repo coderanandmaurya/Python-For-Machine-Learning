@@ -13,3 +13,7 @@ https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Data_T
 
 ## Day 4: Operator precedence and associativity
 https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Operator_precedence_and_associativity.ipynb
+
+## Day 5: Flow control, Function
+https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Flow_Control.ipynb
+https://github.com/coderanandmaurya/Python-For-Machine-Learning/blob/main/Function.ipynb
